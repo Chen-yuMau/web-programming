@@ -21,3 +21,10 @@ G. Remember that the guarantee number counter will be reset when anyone gets the
 whether by achieving G or N.
 
 My goal is to use multi-threads to present the behavior of customers and claw machine.
+
+Server/Client:
+
+The rest of the semester was spent creating this chat app server. There's a big list of commands that I am requred to follow.
+ 
+Model:
+This is mainly for the Server file to use. It uses a DB library of python and requires an additional file to work.
